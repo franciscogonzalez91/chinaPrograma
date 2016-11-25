@@ -1,0 +1,4 @@
+-Obreas (que no truene)
+-Empleados (registre y elimine)
+-Avances obras
+-Carros (que tengan datos)
