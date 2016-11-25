@@ -1,0 +1,131 @@
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuP.resources
+c:\users\dell\documents\visual studio 2012\Projects\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAltaObras.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmModConObras.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Obras.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\telecomrdt.sdf
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAlmacen.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmGasIng.resources
+F:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmBuscarObra.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAlmacen.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmBuscarObra.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmGasIng.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmModConObras.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Obras.resources
+E:\Materias\Cuarto Semestre\Fundamentos de Ingenieria de Software\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmObras.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmObras.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmpleados.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAgreTrab.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.0\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAvances.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAgreTrab.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAvances.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmpleados.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmObras.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+C:\Users\marcosgenaro\Desktop\TELECOM RTD System 1.3\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAgreTrab.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAvances.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmpleados.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmObras.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+C:\Users\marcosgenaro\Desktop\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAgreTrab.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAvances.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmpleados.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmObras.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+C:\Users\Raul Zepeda\Desktop\Proyecto ADAS\programa reynaldo\Reserva 1\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
+C:\Users\Raul Zepeda\Desktop\ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+C:\Users\Raul Zepeda\Desktop\ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+C:\Users\Raul Zepeda\Desktop\ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe.config
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.exe
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.exe
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\bin\Debug\TELECOM RTD System 1.0.pdb
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csprojResolveAssemblyReference.cache
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Form1.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAgreTrab.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmAvances.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmp.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmEmpleados.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmMenuRH.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.frmObras.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.MDIParent1.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM_RTD_System_1._0.Properties.Resources.resources
+C:\Users\Raul Zepeda\Desktop\PROYECTO FINAL DE ADAS\TELECOM RTD System 1.4\TELECOM RTD System 1.0\obj\Debug\TELECOM RTD System 1.0.csproj.GenerateResource.Cache
